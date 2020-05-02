@@ -1,1 +1,1 @@
-# pyshop
+my first django app
